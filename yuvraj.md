@@ -10,6 +10,7 @@ Nit Trichy
 - Gtihub
 - Linkedin
 - Instagram
+- Twitter
 - Etc
 
 ### Programing langauges and tech stacks you know
